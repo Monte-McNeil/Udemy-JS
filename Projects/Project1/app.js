@@ -2,10 +2,10 @@
 
 /* DISCLAIMER
 This is a code-along project, I do not take credit for the code written.
-This is purely an educational lesson taught through the UDEMY course. 
+This is purely an educational lesson taught through the UDEMY course.
 */
 
-// Creating random number (displaying because i'm in development)
+// Creating random number
 const sNumber = Math.trunc(Math.random() * 20) + 1;
 let score = 20; 
 let highScore = 0;
