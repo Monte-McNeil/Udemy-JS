@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: coral;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.first {
+    font-size: 20px;
+    color: red;
+}
+
+#your-name {
+    background-color: cornflowerblue;
+    width: 500px;
+    border: 5px solid #444;
+    padding: 25px;
+    margin-top: 30px;
+}
